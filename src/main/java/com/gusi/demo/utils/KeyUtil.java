@@ -16,13 +16,7 @@ import javax.servlet.ServletContext;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-/**
- * @Name:
- * @Author: lizhao（作者）
- * @Version: V1.00 （版本号）
- * @Create Date: 2015-11-26（创建日期）
- * @Description:
- */
+
 public class KeyUtil {
 	private static final Logger logger = LoggerFactory.getLogger(KeyUtil.class);
 
