@@ -1,4 +1,9 @@
 # demoSpringBoot
 ### SpringBoot实例项目
 - SpringBoot项目搭建和配置
-- 
+    - Application的配置
+    - Intercepted的配置
+    - Filter的配置
+    - Bean的定义
+    - Profile环境的切换
+- JWT安全验证
